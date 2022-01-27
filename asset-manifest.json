@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.e839bd02.js",
+    "main.js": "/static/js/main.66aaf1d9.js",
     "static/js/787.b2d99de5.chunk.js": "/static/js/787.b2d99de5.chunk.js",
+    "static/media/musk.jpg": "/static/media/musk.edb1c3144fdc86f4f18d.jpg",
     "index.html": "/index.html",
     "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.e839bd02.js.map": "/static/js/main.e839bd02.js.map",
+    "main.66aaf1d9.js.map": "/static/js/main.66aaf1d9.js.map",
     "787.b2d99de5.chunk.js.map": "/static/js/787.b2d99de5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e839bd02.js"
+    "static/js/main.66aaf1d9.js"
   ]
 }
